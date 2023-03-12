@@ -1,6 +1,6 @@
 ;;;; package.lisp
 
-(defpackage #:dwg-geom
+(defpackage :dwg-geom
   (:use #:cl)
   (:export geom
 	   

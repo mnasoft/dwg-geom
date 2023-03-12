@@ -1,5 +1,5 @@
 ;;;; defgeneric.lisp
 
-(in-package #:dwg-geom)
+(in-package :dwg-geom)
 
 (defgeneric draw (obj))

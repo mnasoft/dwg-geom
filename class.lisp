@@ -1,6 +1,6 @@
 ;;;; class.lisp
 
-(in-package #:dwg-geom)
+(in-package :dwg-geom)
 
 (defclass geom () ())
 
